@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Devashish Pal</h1>
 <h3 align="center">I'm a web developer with a passion for crafting clean, efficient, and user-friendly websites and web applications.</h3>
 
-<img align="right" alt="coding" width="400" src="https://tenor.com/view/when-the-coding-when-the-coding-when-the-coding-is-when-the-meme-gif-21749595">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev15031997&label=Profile%20views&color=0e75b6&style=flat" alt="dev15031997" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev15031997" alt="dev15031997" /></a> </p>
 
 - 🔭 I’m currently working on [MERN project](Private)
 
