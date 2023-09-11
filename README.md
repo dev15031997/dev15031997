@@ -1,4 +1,4 @@
-![logo](https://github.com/dev15031997/dev15031997/blob/main/Github%20Banner.png)
+![logo](https://github.com/dev15031997/dev15031997/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Devashish Pal</h1>
 <h3 align="center">I'm a web developer with a passion for crafting clean, efficient, and user-friendly websites and web applications.</h3>
 
