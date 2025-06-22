@@ -24,7 +24,6 @@
 <p align="left">
 <a href="https://twitter.com/devashishpal7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devashishpal7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/devashish-pal-90b1b3160" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devashish-pal-90b1b3160" height="30" width="40" /></a>
-<a href="https://codesandbox.com/dev15031997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="dev15031997" height="30" width="40" /></a>
 <a href="https://fb.com/devashish.pal.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devashish.pal.7" height="30" width="40" /></a>
 <a href="https://instagram.com/dev_45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev_45" height="30" width="40" /></a>
 </p>
