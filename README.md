@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev15031997&label=Profile%20views&color=0e75b6&style=flat" alt="dev15031997" /> </p>
 
-- 🔭 I’m currently working on [MERN project](Private)
+- 🔭 I’m currently working on [Learning Mangament System App](Private)
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **GraphQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dev15031997](https://github.com/dev15031997)
 
-- 💬 Ask me about **React,Node,ExpressJS**
+- 💬 Ask me about **javascript,React,Node,ExpressJS,MongoDB**
 
 - 📫 How to reach me **devashishpal15@gmail.com**
 
